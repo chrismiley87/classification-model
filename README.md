@@ -50,8 +50,8 @@ March 29, 2024
 
 ```
 ├── images
-├── churn_data
 ├── README.md
+├── churn_data.csv
 ├── notebook.ipynb
 └── presentation.pdf
 ```
